@@ -5,15 +5,15 @@ export const data = {
     urllogin:'https://beta.upay.com.py/login',
 
     // Usuario admin
-    Emailadmin: 'migueesquivelrios@gmail.com',
-    Passwordadmin: 'Hola.8446',
+    Emailadmin: '',
+    Passwordadmin: '',
 
     // Usuario consulta
-    Emailconsulta: 'miguel.esquivel@itti.digital',
-    Passwordconsulta: 'f9dvET30Ctm9',
+    Emailconsulta: '',
+    Passwordconsulta: '',
 
     // Usuario invalido
     Emailinvalido: 'miguel.esquivel@itti.digita',
-    Passwordinvalido: 'f9dvET30Ctm',
+    Passwordinvalido: 'f9d30Ctm',
 
   };
